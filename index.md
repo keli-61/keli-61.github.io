@@ -14,6 +14,7 @@ I am a Senior Researcher at Tencent Youtu Lab as of 2018. My research interests 
 ## Publications
 
 Below are the works that have been published. Full paper list (including preprints) could be found at [Google Scholar](https://scholar.google.com/citations?user=mfWsFM0AAAAJ&hl=en).
+
 (* corresponding author)
 
 | <img src="assets/img/ECCV2022_fine.jpg" alt="drawing" width="150" /> | **Fine-grained Data Distribution Alignment for Post-Training Quantization**<br />Yunshan Zhong, Mingbao Lin, Mengzhao Chen, **Ke Li**, Yunhang Shen, Fei Chao, Yongjian Wu, Rongrong Ji.<br />European Conference on Computer Vision (**ECCV**), 2022<br />[Paper](https://arxiv.org/abs/2109.04186), [Code](https://github.com/zysxmu/FDDA)<img style="border: 0px;padding: 0px;border-radius: 5px;" src="https://img.shields.io/github/stars/zysxmu/FDDA.svg" alt="GitHub stars" title="" />|
