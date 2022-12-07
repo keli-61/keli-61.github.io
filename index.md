@@ -5,9 +5,11 @@ layout: default
 ## Bio
 I am a Senior Researcher at Tencent Youtu Lab as of 2018. My research interests lie in the area of computer vision and deep learning. Before joining Tencent, I recerived my M.S. degree from Xiamen University in 2018 under the supervision of [*Prof. Rongrong Ji*](https://mac.xmu.edu.cn/rrji_en/). I received my B.S. degree from Zhengzhou University in 2015 under the supervision of [*Prof. Mingliang Xu*](https://scholar.google.com.hk/citations?user=u-8x34cAAAAJ&hl=zh-CN).
 
+
 ## Activities
 
 *   Reviewer for CVPR, ICCV, ECCV, AAAI, ICML, and NeurIPS.
+
 
 ## Publications
 
@@ -36,6 +38,7 @@ Below are the works that have been published. Full paper list (including preprin
 | <img src="assets/img/CVPR20.jpg" alt="drawing" width="150" /> | **Filter Grafting for Deep Neural Networks**<br />Fanxu Meng, Hao Cheng, **Ke Li**, Zhixin Xu, Rongrong Ji, Xing Sun, Gaungming Lu.<br />Computer Vision and Pattern Recognition (**CVPR**), 2020<br />[Paper](https://arxiv.org/abs/2001.05868), [Code](https://github.com/fxmeng/filter-grafting)<img style="border: 0px;padding: 0px;border-radius: 5px;" src="https://img.shields.io/github/stars/fxmeng/filter-grafting.svg" alt="GitHub stars" title="" /> |
 | <img src="assets/img/AAAI20.jpg" alt="drawing" width="150" /> | **Asymmetric Co-Teaching for Unsupervised Cross Domain Person Re-Identification**<br />Fengxiang Yang, **Ke Li**, Zhun Zhong, Zhiming Luo, Xing Sun, Hao Cheng, Xiaowei Guo, Feiyue Huang, Rongrong Ji, Shaozi Li.<br />Proceedings of the AAAI Conference on Artificial Intelligence (**AAAI**), 2020.<br />[Paper](https://arxiv.org/abs/1912.01349), [Code](https://github.com/FlyingRoastDuck/ACT_AAAI20)<img style="border: 0px;padding: 0px;border-radius: 5px;" src="https://img.shields.io/github/stars/FlyingRoastDuck/ACT_AAAI20.svg" alt="GitHub stars" title="" /> |
 | <img src="assets/img/pami19.jpg" alt="drawing" width="150" /> | **Semi-Supervised Adversarial Monocular Depth Estimation**<br />Rongrong Ji, **Ke Li\***, Yan Wang, Feng Guo, Xiaowei Guo, Yongjian Wu, Feiyue Huang, and Jiebo Luo.<br />IEEE Transactions on Pattern Analysis and Machine Intelligence (**PAMI**), 2019.<br />[Paper](https://arxiv.org/abs/1908.02126) |
+
 
 ## More About Me
 
