@@ -40,7 +40,7 @@ Below are the works that have been published. Full paper list (including preprin
 | <img src="assets/img/pami19.jpg" alt="drawing" width="150" /> | **Semi-Supervised Adversarial Monocular Depth Estimation**<br />Rongrong Ji, **Ke Li\***, Yan Wang, Feng Guo, Xiaowei Guo, Yongjian Wu, Feiyue Huang, and Jiebo Luo.<br />IEEE Transactions on Pattern Analysis and Machine Intelligence (**PAMI**), 2019.<br />[Paper](https://arxiv.org/abs/1908.02126) |
 
 
-## More About Me
+## More About
 
 *   Born in Zhengzhou. Now live in Shanghai.
 *	Aside from the academic experience, I also hold a B.A. degree in English with TEM-8 passed and had been teaching writing skills in the [New Oriental](http://www.neworiental.org/english/) part-time during 2011 to 2014.
