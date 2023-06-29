@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Bio
-I am a Senior Researcher at Tencent Youtu Lab as of 2018. My research interests lie in the area of computer vision and deep learning. Before joining Tencent, I recerived my M.S. degree from Xiamen University in 2018 under the supervision of [*Prof. Rongrong Ji*](https://mac.xmu.edu.cn/rrji_en/). I received my B.S. degree from Zhengzhou University in 2015 under the supervision of [*Prof. Mingliang Xu*](https://scholar.google.com.hk/citations?user=u-8x34cAAAAJ&hl=zh-CN).
+I am a Senior Researcher at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open) as of 2018. My research interests lie in the area of computer vision and deep learning. Before joining Tencent, I recerived my M.S. degree from Xiamen University in 2018 under the supervision of [*Prof. Rongrong Ji*](https://mac.xmu.edu.cn/rrji_en/). I received my B.S. degree from Zhengzhou University in 2015 under the supervision of [*Prof. Mingliang Xu*](https://scholar.google.com.hk/citations?user=u-8x34cAAAAJ&hl=zh-CN).
 
 
 ## Activities
