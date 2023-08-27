@@ -8,7 +8,7 @@ I am a Senior Researcher at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open
 
 ## Activities
 
-*   Reviewer for CVPR, ICCV, ECCV, AAAI, ICML, and NeurIPS.
+*   Reviewer for CVPR, ICCV, ECCV, AAAI, ICML, ICLR, and NeurIPS.
 
 
 ## Selected Publications
