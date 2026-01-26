@@ -80,4 +80,4 @@ Below are some of the works that represent my main research interests. Full pape
 ## More About
 
 *   Born in Zhengzhou. Now live in Shanghai.
-*	Aside from my academic experience in computer science, I hold a B.A. degree in English ([TEM-8 certified](https://en.wikipedia.org/wiki/College_English_Test)) and gained practical experience teaching writing skills part-time at [New Oriental](http://www.neworiental.org/english/) from 2011 to 2014.
+*	Aside from my academic experience in computer science, I hold a B.A. degree in English ([TEM-8 certified](https://en.wikipedia.org/wiki/College_English_Test)) and taught writing skills part-time at [New Oriental](http://www.neworiental.org/english/) from 2011 to 2014. I also possess a basic command of Japanese.
