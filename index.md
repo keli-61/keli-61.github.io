@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Bio
-I am a Principal Researcher and Team Manager at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open). My research interests lie in the area of deep learning and its application in computer vision and natural language processing. Recently (over the past two years), I have been studying Language Agents. Before joining Tencent, I received my M.S. degree from Xiamen University in 2018 under the supervision of [*Prof. Rongrong Ji*](https://mac.xmu.edu.cn/rrji_en/). I received my B.S. degree from Zhengzhou University in 2015, advised by [*Prof. Mingliang Xu*](https://scholar.google.com.hk/citations?user=u-8x34cAAAAJ&hl=zh-CN).
+I am a Principal Researcher and Team Manager at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open). My research interests lie in the area of deep learning and its applications in computer vision and natural language processing, where my work has accumulated over [10,000](https://scholar.google.com/citations?user=mfWsFM0AAAAJ&hl=en)  Google Scholar citations  (as of May 2026). Recently (over the past two years), I have been studying Language Agents. Before joining Tencent, I received my M.S. degree from Xiamen University in 2018 under the supervision of [*Prof. Rongrong Ji*](https://mac.xmu.edu.cn/rrji_en/). I received my B.S. degree from Zhengzhou University in 2015, advised by [*Prof. Mingliang Xu*](https://scholar.google.com.hk/citations?user=u-8x34cAAAAJ&hl=zh-CN).
 
 
 ## Activities
